@@ -54,15 +54,15 @@ sn: Bappy
 uid: masud
 userPassword: masud15
 
-dn: uid=joe,ou=otherpeople,dc=springframework,dc=org
+dn: uid=badrul,ou=otherpeople,dc=springframework,dc=org
 objectclass: top
 objectclass: person
 objectclass: organizationalPerson
 objectclass: inetOrgPerson
-cn: Joe Smeth
-sn: Smeth
-uid: joe
-userPassword: joespassword
+cn: Badrul Alam
+sn: alam
+uid: badrul
+userPassword: badrul
 
 dn: cn=mouse\, jerry,ou=people,dc=springframework,dc=org
 objectclass: top
